@@ -8,5 +8,5 @@ description: Launchpadder website
 show_downloads: true
 
 github:
-  zip_url: pdby.github.io/project.html
+  zip_url: project.html
   another_url: pdby.github.io/project.md
