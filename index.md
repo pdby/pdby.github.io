@@ -1,1 +1,1 @@
-[faszomat beleverem](https://github.com/pdby/pdby.github.io/blob/main/project.md)
+[faszomat beleverem](main/projects.md)
