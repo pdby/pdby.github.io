@@ -1,1 +1,1 @@
-[faszomat beleverem](main/projects.md)
+[faszomat beleverem](main/project.md)
