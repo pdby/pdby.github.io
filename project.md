@@ -1,7 +1,7 @@
 ---
 layout: default
-tile: project
+title: project files
 ---
 
 ---
-thi is a project website
+# Download projects
