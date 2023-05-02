@@ -1,8 +1,9 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
 
 title: PadBoy
 description: Launchpad content creator
 
-show_downloads: false
+
