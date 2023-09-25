@@ -4,6 +4,6 @@
 navigate on the site using the links below
 
 * home
-* prpoject files (./project_files.md)
+* [[project files]]
 * downloads
 * about me
