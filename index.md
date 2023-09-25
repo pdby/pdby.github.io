@@ -1,5 +1,9 @@
 # PadBoy
 
-#menu
-navigate here using the links to find what you want
-Home
+# menu
+navigate on the site using the links below
+
+* home
+* prpoject files (./project_files.md)
+* downloads
+* about me
