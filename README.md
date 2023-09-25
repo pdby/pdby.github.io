@@ -1,2 +1,2 @@
-# PadBoy
-website using markdown lnguage
+# Menu
+Navigate the website using the links below
