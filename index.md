@@ -4,6 +4,6 @@
 navigate on the site using the links below
 
 * home
-* [[project files]]
+* [[project-files]]
 * downloads
 * about me
