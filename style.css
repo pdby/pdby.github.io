@@ -1,7 +1,11 @@
+*{
+	font-family: Georgia, sans-serif ;
+}
+
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
+	background: #151515 ;
 	color: #ccc ;
+	text-align: center;
 }
 
 main {
@@ -9,13 +13,17 @@ main {
 	margin: auto ;
 }
 
+
 img {
 	max-width: 100% ;
+	margin: auto;
+	display: flex;
 }
 
-header h1 {
+header h1, h1 {
 	text-align: center ;
 }
+
 
 footer {
 	text-align: center ;
@@ -42,4 +50,12 @@ footer {
 }
 #nextart,#prevart {
 	max-width: 33% ;
+}
+
+
+#social-badges{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }

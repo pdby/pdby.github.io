@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-10-13T12:50:17+02:00</lastmod>
+    <loc>https://pdby.github.io/</loc>
+    <lastmod>2024-10-13T13:15:32+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/start/</loc>
-    <lastmod>2024-10-13T12:50:17+02:00</lastmod>
+    <loc>https://pdby.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://pdby.github.io/tags/</loc>
   </url>
 </urlset>
