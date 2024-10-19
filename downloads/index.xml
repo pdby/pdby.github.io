@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My New Hugo Site</title>
+	<link>//localhost:1313/downloads/</link>
+	<description>Recent content in Downloads on My New Hugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 19 Oct 2024 23:28:02 +0200</lastBuildDate>
+    
+        <atom:link href="//localhost:1313/downloads/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Download</title>
+		<link>//localhost:1313/downloads/download/</link>
+		<pubDate>Sat, 19 Oct 2024 23:28:02 +0200</pubDate>
+		
+		<guid>//localhost:1313/downloads/download/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
+</rss>
