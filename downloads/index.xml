@@ -1,74 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>PadBoy</title>
-	<link>http://localhost:1313/downloads/</link>
+	<link>//localhost:1313/downloads/</link>
 	<description>Recent content in Downloads on PadBoy</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sat, 19 Oct 2024 19:55:28 +0200</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/downloads/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/downloads/index.xml" rel="self" type="application/rss+xml" />
 	
-	
-	<item>
-		<title>Project12</title>
-		<link>http://localhost:1313/projectfiles/project12/</link>
-		<pubDate>Sat, 19 Oct 2024 20:47:57 +0200</pubDate>
-		
-		<guid>http://localhost:1313/projectfiles/project12/</guid>
-		<description>&lt;h2 id=&#34;project-file-overview&#34;&gt;Project File Overview&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://placehold.co/600x400&#34; alt=&#34;img title&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This is a performance of [project title]&lt;/p&gt;
-&lt;h2 id=&#34;prequests&#34;&gt;Prequests&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ableton Live 10 Suite (or newer)&lt;/li&gt;
-&lt;li&gt;Apollo Studio 1.8 (or newer)&lt;/li&gt;
-&lt;li&gt;Kaskobi devices&lt;/li&gt;
-&lt;li&gt;mat1jaczyyy devices&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Watch video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Download project&lt;/a&gt;&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Project</title>
-		<link>http://localhost:1313/projectfiles/project/</link>
-		<pubDate>Sat, 19 Oct 2024 20:45:04 +0200</pubDate>
-		
-		<guid>http://localhost:1313/projectfiles/project/</guid>
-		<description></description>
-	</item>
-	
-	<item>
-		<title>Project2</title>
-		<link>http://localhost:1313/projectfiles/project2/</link>
-		<pubDate>Sat, 19 Oct 2024 20:44:24 +0200</pubDate>
-		
-		<guid>http://localhost:1313/projectfiles/project2/</guid>
-		<description></description>
-	</item>
 	
 	<item>
 		<title>Test</title>
-		<link>http://localhost:1313/downloads/test/</link>
+		<link>//localhost:1313/downloads/test/</link>
 		<pubDate>Sat, 19 Oct 2024 19:55:28 +0200</pubDate>
 		
-		<guid>http://localhost:1313/downloads/test/</guid>
+		<guid>//localhost:1313/downloads/test/</guid>
 		<description></description>
-	</item>
-	
-	<item>
-		<title>Dirty Palm - Freakshow (feat. LexBlaze) </title>
-		<link>http://localhost:1313/projectfiles/freakshow/</link>
-		<pubDate>Sat, 19 Oct 2024 19:14:00 +0200</pubDate>
-		
-		<guid>http://localhost:1313/projectfiles/freakshow/</guid>
-		<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
-</description>
 	</item>
 	
 	</channel>
