@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>PadBoy</title>
+	<link>//localhost:1313/projectfiles/</link>
+	<description>Recent content in ProjectFiles on PadBoy</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 19 Oct 2024 20:44:24 +0200</lastBuildDate>
+    
+        <atom:link href="//localhost:1313/projectfiles/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Project2</title>
+		<link>//localhost:1313/projectfiles/project2/</link>
+		<pubDate>Sat, 19 Oct 2024 20:44:24 +0200</pubDate>
+		
+		<guid>//localhost:1313/projectfiles/project2/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
+</rss>

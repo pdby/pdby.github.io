@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>PadBoy Launchpadder Website</title>
-	<link>https://pdby.github.io/</link>
-	<description>Recent content in PadBoy Launchpad website on PadBoy Launchpadder Website</description>
+	<title>PadBoy</title>
+	<link>//localhost:1313/</link>
+	<description>Recent content on PadBoy</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 13 Oct 2024 13:15:32 +0200</lastBuildDate>
+	<lastBuildDate>Sat, 19 Oct 2024 19:55:28 +0200</lastBuildDate>
     
-        <atom:link href="https://pdby.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	</channel>

@@ -1,33 +1,35 @@
 *{
-	font-family: Georgia, sans-serif ;
+	box-sizing: border-box;
 }
 
 body {
-	background: #282828 ;
+	font-family: Georgia, sans-serif ;
+	background: #1b1b1b ;
 	color: #ccc ;
 }
+
 a{
-	color: #fabd2f;
-	font-style: italic;
+	color: inherit;
 }
+
 main {
 	max-width: 800px ;
 	margin: auto ;
-	text-align: center;
 }
-
 
 img {
 	max-width: 100% ;
 	margin: auto;
 	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
-header h1, h1, h2, h3 {
+header h1, header a {
 	text-align: center ;
-	color: #fabd2f;
+	color: orangered;
+	text-decoration: none;
 }
-
 
 footer {
 	text-align: center ;
@@ -55,4 +57,11 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+h1, img{
+	text-align: center;
+}
 
+ul{
+	font-size: 24px;
+	list-style: none;
+}
