@@ -3,14 +3,17 @@
 }
 
 body {
-	background: #151515 ;
+	background: #282828 ;
 	color: #ccc ;
-	text-align: center;
 }
-
+a{
+	color: #fabd2f;
+	font-style: italic;
+}
 main {
 	max-width: 800px ;
 	margin: auto ;
+	text-align: center;
 }
 
 
@@ -20,8 +23,9 @@ img {
 	display: flex;
 }
 
-header h1, h1 {
+header h1, h1, h2, h3 {
 	text-align: center ;
+	color: #fabd2f;
 }
 
 
@@ -52,10 +56,3 @@ footer {
 	max-width: 33% ;
 }
 
-
-#social-badges{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-}
