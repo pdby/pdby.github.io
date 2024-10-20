@@ -10,5 +10,25 @@
         <atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
 	
 	
+	<item>
+		<title>Apollo Studio effect racks</title>
+		<link>https://example.org/downloads/apollo/</link>
+		<pubDate>Sun, 20 Oct 2024 17:22:23 +0200</pubDate>
+		
+		<guid>https://example.org/downloads/apollo/</guid>
+		<description>&lt;p&gt;loremipsumn soldor sitamet&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Ableton Live Lite effect racks</title>
+		<link>https://example.org/downloads/ableton/</link>
+		<pubDate>Sun, 20 Oct 2024 17:09:09 +0200</pubDate>
+		
+		<guid>https://example.org/downloads/ableton/</guid>
+		<description>&lt;p&gt;sdfasfasdfsa&lt;/p&gt;
+</description>
+	</item>
+	
 	</channel>
 </rss>
