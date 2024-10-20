@@ -1,6 +1,6 @@
 body {
-	font-family: Georgia, sans-serif ;
-	background: #282828 ;
+	font-family: sans-serif ;
+	background: #110000 ;
 	color: #ccc ;
 }
 
@@ -15,7 +15,6 @@ img {
 
 header h1 {
 	text-align: center ;
-	color: #cc241d;
 }
 
 footer {
@@ -43,14 +42,4 @@ footer {
 }
 #nextart,#prevart {
 	max-width: 33% ;
-}
-
-
-
-h1{
-	color: #fb4934;
-}
-
-a{
-	color: #458588;
 }

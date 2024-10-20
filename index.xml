@@ -1,14 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>PadBoy</title>
-	<link>https://pdby.github.io/</link>
-	<description>Recent content on PadBoy</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-	<lastBuildDate>Sat, 19 Oct 2024 23:13:29 +0200</lastBuildDate>
-    
-        <atom:link href="https://pdby.github.io/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	</channel>
+    <title>ye on Website Name</title>
+    <link>https://example.org/</link>
+    <description>Recent content in ye on Website Name</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2024 16:20:59 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1</title>
+      <link>https://example.org/projects/project1/</link>
+      <pubDate>Sun, 20 Oct 2024 16:20:59 +0200</pubDate>
+      <guid>https://example.org/projects/project1/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;Provide a detailed description of the project here. Include information about its purpose, features, and how it works.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;project-links&#34;&gt;Project Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com/demo&#34;&gt;Live Demo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/example/repo&#34;&gt;Source Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
 </rss>
