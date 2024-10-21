@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>My New Hugo Site</title>
+	<title>PadBoy</title>
 	<link>https://example.org/websites/</link>
-	<description>Recent content in Websites on My New Hugo Site</description>
+	<description>Recent content in Websites on PadBoy</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sun, 20 Oct 2024 17:09:36 +0200</lastBuildDate>
@@ -27,6 +27,63 @@
 		
 		<guid>https://example.org/downloads/ableton/</guid>
 		<description>&lt;p&gt;sdfasfasdfsa&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Dirty Palm - Freakshow (feat. LexBlaze)</title>
+		<link>https://example.org/projects/freakshow/</link>
+		<pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+		
+		<guid>https://example.org/projects/freakshow/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://i.ytimg.com/vi/5ufVj8ipqeo/maxresdefault.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ableton Live 10 Suite&lt;/li&gt;
+&lt;li&gt;Apollo Studio&lt;/li&gt;
+&lt;li&gt;Kaskobi devices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Download%20Project-4285F4?style=for-the-badge&amp;amp;logo=googledrive&amp;amp;logoColor=white&#34; alt=&#34;Google Drive&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Watch%20Performance-%23FF0000.svg?style=for-the-badge&amp;amp;logo=YouTube&amp;amp;logoColor=white&#34; alt=&#34;YouTube&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Bella Poarch - Build a B*tch</title>
+		<link>https://example.org/projects/bitch/</link>
+		<pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://example.org/projects/bitch/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://i.ytimg.com/vi/vwknyOQk8LE/maxresdefault.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ableton Live 10 Suite&lt;/li&gt;
+&lt;li&gt;Apollo Studio&lt;/li&gt;
+&lt;li&gt;Kaskobi devices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Download%20Project-4285F4?style=for-the-badge&amp;amp;logo=googledrive&amp;amp;logoColor=white&#34; alt=&#34;Google Drive&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Watch%20Performance-%23FF0000.svg?style=for-the-badge&amp;amp;logo=YouTube&amp;amp;logoColor=white&#34; alt=&#34;YouTube&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Ava Max - Who&#39;s Laughing Now</title>
+		<link>https://example.org/projects/avamax/</link>
+		<pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://example.org/projects/avamax/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://i.ytimg.com/vi/684IPUdRaAY/maxresdefault.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ableton Live 10 Suite&lt;/li&gt;
+&lt;li&gt;Apollo Studio&lt;/li&gt;
+&lt;li&gt;Kaskobi devices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Download%20Project-4285F4?style=for-the-badge&amp;amp;logo=googledrive&amp;amp;logoColor=white&#34; alt=&#34;Google Drive&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Watch%20Performance-%23FF0000.svg?style=for-the-badge&amp;amp;logo=YouTube&amp;amp;logoColor=white&#34; alt=&#34;YouTube&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
